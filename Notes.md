@@ -21,3 +21,9 @@
 * motedis.nl seems to be the cheapest, and has the full catalog of required items. This seems like the best contender.
 * uk.misumi-ec.com at firce glance seems reasonable, but a 200mm frame of type 2020 costs €3.34, which makes it more expensive than the rest.
 
+# Useful pages
+
+* Linear bearing: https://www.123-3d.nl/123-3D-Igus-drylin-lineaire-lager-RJ4JP-01-08-LM8UU-2-stuks-i1798-t13133.html
+* sports bag:
+  * https://www.decathlon.nl/p/basic-ijshockeytas-145-l/_/R-p-184351?mc=8397748&c=ZWART
+  * https://www.decathlon.nl/p/reistas-voor-trekking-50-l-dufflebag-100-basic/_/R-p-324506?mc=8581543&c=GRIJS
