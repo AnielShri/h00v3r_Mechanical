@@ -21,6 +21,11 @@
 * motedis.nl seems to be the cheapest, and has the full catalog of required items. This seems like the best contender.
 * uk.misumi-ec.com at firce glance seems reasonable, but a 200mm frame of type 2020 costs €3.34, which makes it more expensive than the rest.
 
+# Final choice
+For extrusion profiles and accesiores, aluxprofiel.nl and motedis.nl were comparible in price. aluxprofiel.nl had black anodized profiles, which had a unique appeal, so in the end those were chosen. From a mechanical perspective, the normal blank alimunium style is good enough.
+
+Remaining components were purchased at motedis.nl, though this came at the cost twice the shipping fee.
+
 # Useful pages
 
 * Linear bearing: https://www.123-3d.nl/123-3D-Igus-drylin-lineaire-lager-RJ4JP-01-08-LM8UU-2-stuks-i1798-t13133.html
