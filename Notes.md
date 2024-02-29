@@ -32,3 +32,10 @@ Remaining components were purchased at motedis.nl, though this came at the cost 
 * sports bag:
   * https://www.decathlon.nl/p/basic-ijshockeytas-145-l/_/R-p-184351?mc=8397748&c=ZWART
   * https://www.decathlon.nl/p/reistas-voor-trekking-50-l-dufflebag-100-basic/_/R-p-324506?mc=8581543&c=GRIJS
+  * https://www.decathlon.nl/p/reistas-voor-trekking-50-l-dufflebag-100-basic/_/R-p-324506?mc=8581543&c=GRIJS
+  
+ Motors:
+  * https://www.ricmotor.com/details/7mm-coreless-motor
+  * https://abra-electronics.com/quadcopters/motors/d-mot-716.html
+  * https://microdcmotors.com/product/7mm-coreless-dc-motor-16mm-type-model-nfp-d0716
+  * https://bc-robotics.com/shop/716-coreless-motor-3-7v/
